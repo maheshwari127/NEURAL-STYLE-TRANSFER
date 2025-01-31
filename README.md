@@ -7,7 +7,7 @@ Neural Style Transfer (NST) refers to a class of software algorithms that manipu
 <br> <!-- line break -->
 
 <div align="center">
-<img src="/Imgs/nst.png"/>
+<img src=""C:\Neural-Style-Transfer-main\Neural-Style-Transfer-main\Imgs\nst.png""/>
 </div>
 
 <br> <!-- line break -->
@@ -25,7 +25,7 @@ Style transfer is a computer vision technique that takes two images — a "conte
 
 
 <div align="center">
-<img src="/Imgs/nst architecture.jpg" width="80%"/>
+<img src=""C:\Neural-Style-Transfer-main\Neural-Style-Transfer-main\Imgs\nst architecture.jpg width="80%"/>
 </div>
 
 <br> <!-- line break -->
@@ -37,7 +37,7 @@ The ‘encoding nature’ of CNN’s is the key in Neural Style Transfer. Firstl
 
 
 <div align="center">
-<img src="/Imgs/final_oss.png" width="50%" />
+<img src=""C:\Neural-Style-Transfer-main\Neural-Style-Transfer-main\Imgs\final_oss.png width="50%" />
 </div>
 
 <br> <!-- line break -->
@@ -94,30 +94,30 @@ In order to make it easy for anyone to interact with the model,we created a clea
 - Website Repository : [here](https://github.com/deepeshdm/PixelMix)
 
 <div align="center">
-  <img src="/Imgs/website.gif" width="90%"/>
+  <img src=""C:\Neural-Style-Transfer-main\Neural-Style-Transfer-main\Imgs\website.gif"" width="90%"/>
 </div>
 
 
 ## 🖼🖌 Some of the art we created in this project
 
 <div align="center">
-  <img src="/Imgs/content1.jpg" width="35%"/>
-<img src="/Imgs/art1.png" width="35%"/>
+  <img src=""C:\Neural-Style-Transfer-main\Neural-Style-Transfer-main\Imgs\content1.jpg"" width="35%"/>
+<img src=""C:\Neural-Style-Transfer-main\Neural-Style-Transfer-main\Imgs\art1.png"" width="35%"/>
 </div>
 
 <div align="center">
-<img src="/Imgs/content2.jpg" width="35%"/>
-<img src="/Imgs/art2.png" width="35%"/>
+<img src=""C:\Neural-Style-Transfer-main\Neural-Style-Transfer-main\Imgs\content2.jpg"" width="35%"/>
+<img src=""C:\Neural-Style-Transfer-main\Neural-Style-Transfer-main\Imgs\art2.png"" width="35%"/>
 </div>
 
 <div align="center">
-<img src="/Imgs/content3.jpg" width="35%"/>
-<img src="/Imgs/art3.png" width="35%"/>
+<img src=""C:\Neural-Style-Transfer-main\Neural-Style-Transfer-main\Imgs\content3.jpg"" width="35%"/>
+<img src=""C:\Neural-Style-Transfer-main\Neural-Style-Transfer-main\Imgs\art3.png"" width="35%"/>
 </div>
 
 <div align="center">
-<img src="/Imgs/content4.jpg" width="35%"/>
-<img src="/Imgs/art4.png" width="35%"/>
+<img src=""C:\Neural-Style-Transfer-main\Neural-Style-Transfer-main\Imgs\content4.jpg"" width="35%"/>
+<img src=""C:\Neural-Style-Transfer-main\Neural-Style-Transfer-main\Imgs\art4.png"" width="35%"/>
 </div>
 
 References :
